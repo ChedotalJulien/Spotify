@@ -1,0 +1,29 @@
+body
+
+
+a{
+	color: grey;
+	text-decoration-style: bold;
+	text-align: center;
+}
+
+.lu {
+	color: white;
+}
+
+section {
+
+    background-image: url("http://maximumwallhd.com/wp-content/uploads/2017/01/fond-ecran-wallpaper-image-fonds-ecran-abstrait-orange-16.jpg");
+    
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+}
+
+.navbar {
+
+   opacity: 0.80;}
+
+ .has-text-left {
+  text-align: left !important;
+}
+
